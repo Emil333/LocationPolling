@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsMarker</string>
+    <string name="title_activity_maps">DriverMaps</string>
+</resources>
